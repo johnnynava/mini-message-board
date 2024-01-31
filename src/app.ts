@@ -2,9 +2,10 @@ import express from "express";
 import indexRouter from "./routes/index.js";
 import path from "path";
 import bodyParser from "body-parser";
+import "dotenv/config.js";
 
 const app = express();
-const port: number = 8000;
+const port: number = +process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
