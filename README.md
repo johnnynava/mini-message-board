@@ -1,4 +1,4 @@
-(Live Demo)[https://mini-message-board-johnnynava.adaptable.app]
+[Live Demo](https://mini-message-board-johnnynava.adaptable.app)
 
 Work in progress but in this small full-stack project there's two pages.
 
