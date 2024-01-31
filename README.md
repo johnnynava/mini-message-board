@@ -5,7 +5,11 @@ In the second page (/new) you are able to add messages and then it redirects you
 I did this in Typescript, the files required to run this are inside the dist directory.
 
 Technologies used:
+</br>
 • Typescript
+</br>
 • Node.js
+</br>
 • Express.js
+</br>
 • EJS
